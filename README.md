@@ -32,6 +32,23 @@ Copy code
    ```bash
    pip install -r requirements.txt
 Set up environment variables:
-
 Create a .env file in the root directory of the project and add your API key(s) as follows:
+   ```bash
+   echo "API_KEY=your_api_key_here" > .env
+# Running the Chatbot
+To run the chatbot, execute the following command:
+   ```bash
+   python test1.py
+
+
+This will start the chatbot and allow you to interact with it.
+
+Customization
+You can modify test1.py to add more API integrations or enhance the functionality of the chatbot.
+
+Contributing
+Feel free to open issues or submit pull requests to contribute to the project.
+
+License
+This project is licensed under the MIT License.
 
