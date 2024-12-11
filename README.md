@@ -18,11 +18,6 @@ Follow these instructions to set up and run Cybersec_bot on your local machine.
    git clone https://github.com/your-username/Cybersec_bot.git
    cd Cybersec_bot
 
-
-Here is the properly formatted section in GitHub README.md style with the correct use of triple backticks for Bash commands:
-
-markdown
-Copy code
 ### **Installation**
 
 1. **Install the dependencies:**
@@ -32,18 +27,13 @@ Copy code
    ```bash
    pip install -r requirements.txt
 
-Here is the formatted content for your GitHub README file:
 
-```markdown
 # Cybersec_bot
 
 Cybersec_bot is a context-aware chatbot designed to perform various actions such as creating/cancelling orders, collecting payments, and viewing invoices.
 
 ## Setup Instructions
 
-### Prerequisites
-- Python 3.11
-- Required Python packages listed in `requirements.txt`
 
 ### Installation
 1. Clone the repository:
